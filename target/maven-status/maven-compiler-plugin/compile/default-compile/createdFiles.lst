@@ -1,0 +1,7 @@
+com/chat/controller/UserController.class
+com/chat/websocket/ChatEndpoint.class
+com/chat/service/DatabaseService.class
+com/chat/model/Message.class
+com/chat/controller/AuthController.class
+com/chat/service/AuthService.class
+com/chat/model/User.class
